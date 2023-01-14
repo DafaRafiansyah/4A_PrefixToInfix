@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1673615385 source:c:\users\acer\documents\kuliah\smt 3\struktur data\tubes\tubes\main.cpp
+	"tubes.h"
+
+1673185430 c:\users\acer\documents\kuliah\smt 3\struktur data\tubes\tubes\tubes.h
+	<iostream>
+
+1673185387 source:c:\users\acer\documents\kuliah\smt 3\struktur data\tubes\tubes\tubes.cpp
+	"tubes.h"
+
+1673615385 source:c:\users\acer\documents\kuliah\smt 3\struktur data\tubes\4a_prefixtoinfix\main.cpp
+	"tubes.h"
+
+1673185430 c:\users\acer\documents\kuliah\smt 3\struktur data\tubes\4a_prefixtoinfix\tubes.h
+	<iostream>
+
+1673185387 source:c:\users\acer\documents\kuliah\smt 3\struktur data\tubes\4a_prefixtoinfix\tubes.cpp
+	"tubes.h"
+
